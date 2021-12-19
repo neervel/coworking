@@ -231,15 +231,15 @@ a:hover {
   background-color: #c44e4e;
 }
 
-.adv {
+.advant {
   margin-bottom: 190px;
 }
 
-.adv__title {
+.advant__title {
   margin-bottom: 60px;
 }
 
-.adv-list {
+.advant-list {
   display: -ms-grid;
   display: grid;
   -ms-grid-columns: (1fr)[3];
@@ -247,7 +247,7 @@ a:hover {
   grid-row-gap: 50px;
 }
 
-.adv__item {
+.advant__item {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -266,11 +266,11 @@ a:hover {
   margin: 0 auto;
 }
 
-.adv__img {
+.advant__img {
   margin-bottom: 20px;
 }
 
-.adv__text {
+.advant__text {
   font-size: 18px;
 }
 
@@ -589,7 +589,7 @@ a:hover {
   .main__imgs img:last-child {
     margin-bottom: 0;
   }
-  .adv-list {
+  .advant-list {
     -ms-grid-columns: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
   }
@@ -653,10 +653,10 @@ a:hover {
   .plan__item-head, .plan__item-title, .plan__item-place, .plan__item-price {
     max-width: 90%;
   }
-  .adv {
+  .advant {
     margin-bottom: 100px;
   }
-  .adv-list {
+  .advant-list {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
   }
