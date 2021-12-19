@@ -321,12 +321,12 @@ a:hover {
 }
 
 .contacts__item:first-child {
-  background-image: url(../img/contacts-1.png);
+  background-image: url(./img/contacts-1.png);
   background-size: cover;
 }
 
 .contacts__item:last-child {
-  background-image: url(../img/contacts-2.png);
+  background-image: url(./img/contacts-2.png);
   background-size: cover;
 }
 
